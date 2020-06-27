@@ -1,0 +1,1 @@
+For this project, I built a classification model using the K-nearest neighbor algorithm. I used different body measurements, location, and sex to classify the penguins by type. The original data used can be found on Allison Horst's Github account: https://github.com/allisonhorst/palmerpenguins
